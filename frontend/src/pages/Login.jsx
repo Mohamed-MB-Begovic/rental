@@ -55,7 +55,7 @@ const Login = () => {
   };
 // console.log(window.location)
   const handleGoogleLogin = () => {
-    window.open('http://localhost:9000/auth/google', '_self');
+    window.open('https://rental-3rsb.onrender.com/auth/google', '_self');
   };
   // console.log(window.location.href)
   // Update handleSubmit for email/password login
