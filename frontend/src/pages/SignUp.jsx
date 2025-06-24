@@ -109,7 +109,7 @@ const from = location.state?.from || '/';
   };
 
   const signInWithGoogle = () => {
-    window.open('http://localhost:9000/auth/google', '_self');
+    window.open('https://rental-3rsb.onrender.com/auth/google', '_self');
   };
   // const signInWithGoogle =async()=>{
   //   try {
